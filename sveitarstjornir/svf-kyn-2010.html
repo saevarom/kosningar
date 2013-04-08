@@ -22,8 +22,8 @@ var width = 960,
     height = 600;
 
 var color = d3.scale.linear()
-  .domain([0,.01,.5,.99, 1])
-  .range(["darkblue","blue","silver", "hotpink","deeppink"]); 
+  .domain([0, 0.5, 1])
+  .range(["darkblue","silver","deeppink"]); 
 
 var svg = d3.select("body").append("svg")
     .attr("width", width)
