@@ -30,7 +30,7 @@ d3.tsv("svf-by-gender.tsv", function(error, sveitarfelog){
       konurkjorskra: d.konurkjorskra,
       karlarkjorskra: d.karlarkjorskra,
       total: parseInt(d.konurkjorskra) + parseInt(d.karlarkjorskra),
-      kjorsokn: parseInt(d.thatttaka) / (parseInt(d.konurkjorskra) + parseInt(d.karlarkjorskra))
+      kjorsokn: 100* parseInt(d.thatttaka) / (parseInt(d.konurkjorskra) + parseInt(d.karlarkjorskra))
     });
   });
 
