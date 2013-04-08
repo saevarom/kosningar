@@ -79,12 +79,12 @@ d3.tsv("svf-by-gender.tsv", function(error, sveitarfelog){
     });
 
     var legendData = [
-      {value: 0.5, label: "50% kjörsókn"},
-      {value: 0.6, label: ""},
-      {value: 0.7, label: ""},
-      {value: 0.8, label: ""},
-      {value: 0.9, label: ""},
-      {value: 1, label: "100% kjörsókn"}
+      {value: 50, label: "50% kjörsókn"},
+      {value: 60, label: ""},
+      {value: 70, label: ""},
+      {value: 80, label: ""},
+      {value: 90, label: ""},
+      {value: 100, label: "100% kjörsókn"}
     ];
 
     var legend = svg.selectAll(".legend")
