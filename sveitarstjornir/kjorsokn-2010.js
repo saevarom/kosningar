@@ -5,7 +5,7 @@ var width = 960,
 //   .domain([0, 0.5, 1])
 //   .range(["darkblue","#eee","deeppink"]); 
 var color = d3.scale.threshold()
-    .domain([.5, .6, .7, .8, .9])
+    .domain([50, 60, 70, 80, 90])
     .range(["#f2f0f7", "#dadaeb", "#bcbddc", "#9e9ac8", "#756bb1", "#54278f"]);
 
 var svg = d3.select("#map").append("svg")
