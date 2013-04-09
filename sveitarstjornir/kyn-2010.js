@@ -2,8 +2,8 @@ var width = 960,
     height = 600;
 
 var color = d3.scale.linear()
-  .domain([0, 0.5, 1])
-  .range(["darkblue","#eee","deeppink"]); 
+  .domain([0, 0.4999, 0.5, 0.5001, 1])
+  .range(["darkblue", "#8f8fc6", "#eee", "#f597ca", "deeppink"]); 
 
 var svg = d3.select("#map").append("svg")
     .attr("width", width)

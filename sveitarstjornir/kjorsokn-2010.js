@@ -58,7 +58,7 @@ d3.tsv("svf-by-gender.tsv", function(error, sveitarfelog){
         });
 
 
-
+    var formatter = d3.format(",g");
     $('svg .kjordaemi').tipsy({
       gravity: 'w',
       html: true,
@@ -67,9 +67,11 @@ d3.tsv("svf-by-gender.tsv", function(error, sveitarfelog){
         var obj = svfById.get(d.id);
         if (obj !== undefined) {
           if (!isNaN(obj.kjorsokn)) {
-            return d.properties.name + "<br/>Kjörsókn: " + obj.kjorsokn.toFixed(2) + "%";
+            return d.properties.name + "<br/>Kjörsókn: " + obj.kjorsokn.toFixed(2) + "%"
+                   + "<br/>Á kjörskrá: " + formatter(obj.total);
           } else {
-            return d.properties.name + "<br/>Kjörsókn: Gögn ekki til";
+            return d.properties.name + "<br/>Kjörsókn: Gögn ekki til"
+                   + "<br/>Á kjörskrá: " + formatter(obj.total);
           }
         }
         else {
