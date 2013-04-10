@@ -26,6 +26,8 @@ var transitionLength = 1500;
 
 var xAxis = d3.svg.axis()
     .scale(x)
+    .ticks(d3.time.weeks, 1)
+    .tickFormat(d3.time.format("%b"))
     .orient("bottom");
 
 var yAxis = d3.svg.axis()
@@ -94,13 +96,10 @@ d3.csv("mbl.csv", function(error, data) {
         .attr('x', 0)
         .attr('y', 0)
         .attr('width', width)
-        .attr('height', width)
+        .attr('height', height)
         .style('opacity', 0.0);
 
   svg.append("g")
-      .attr("class", "x axis")
-      .attr("transform", "translate(0," + height + ")")
-      .append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
       .call(xAxis);
@@ -188,7 +187,6 @@ d3.csv("mbl.csv", function(error, data) {
                     .attr("y2", 0)
                     .attr("x1", x(d.dagsetning))
                     .attr("x2", x(d.dagsetning));
-        console.log(d.konnun + " " + d.dagsetning_original)
         s = d3.entries(kannanir.get(d.konnun + " " + d.dagsetning_original));
         ss = [];
         s.map(function(dd) {
@@ -209,6 +207,7 @@ d3.csv("mbl.csv", function(error, data) {
     circles.on("mouseover", singleLine);
     svg.selectAll("path").on("mouseover", singleLine);
     svg.selectAll("path").on("mouseleave", allLines);
+    svg.selectAll("path").on("click", singleLineFixed);
 
     function singleLineFixed(d, i) {
         single = true;
@@ -252,8 +251,6 @@ d3.csv("mbl.csv", function(error, data) {
     function drawSeats(s) {
 
         seats.selectAll('.seat').remove()
-
-        console.log(s)
 
         seats.select("text")
             .data(s)
