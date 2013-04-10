@@ -27,7 +27,6 @@ var transitionLength = 1500;
 var xAxis = d3.svg.axis()
     .scale(x)
     .ticks(d3.time.weeks, 1)
-    .tickFormat(d3.time.format("%b"))
     .orient("bottom");
 
 var yAxis = d3.svg.axis()
