@@ -20,7 +20,7 @@ var y = d3.scale.linear()
 
 var color = d3.scale.ordinal()
     .domain(["Annað", "Sjálfstæðisflokkur", "Samfylkingin", "Vinstri græn", "Framsóknarflokkur", "Björt framtíð", "Píratar", "Lýðræðisvaktin", "Hreyfingin", "Borgarahreyfingin", "Samstaða",  "Hægri grænir", "Dögun", "Framfaraflokkurinn", "Lýðræðishreyfingin", "Regnboginn", "Landsbyggðarflokkurinn", "Flokkur heimilanna", "Alþýðufylkingin", "Húmanistaflokkurinn"])
-    .range(["#ccc", "#0099cc", "#d30f18", "#F87217", "#65991d", "#92278f", "#000", "#49519A"]);
+    .range(["#ccc", "#0099cc", "#d30f18", "#F87217", "#65991d", "#92278f", "#000", "#49519A", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc"]);
 
 var transitionLength = 1500;
 
