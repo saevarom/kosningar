@@ -262,7 +262,7 @@ d3.csv("mbl.csv", function(error, data) {
             .data(s);
 
         seat.enter().append("circle")
-            .attr("class", "seat")
+//            .attr("class", function(d) { return "seat f_" + d.flokkur_sanitized;})
             .attr("cy", function(d, i){ return 40 + 25*Math.floor(i/4)})
             .attr("cx", function(d, i){ return 800 + 25*(i%4)})
             .attr("r", 10)
