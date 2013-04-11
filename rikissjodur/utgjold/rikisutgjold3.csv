@@ -1,0 +1,431 @@
+Ráðuneyti,Rasto,Stofnun,Gjöld - sértekjur
+00  Æðsta stjórn ríkisins,00101,Embætti forseta Íslands,140143354
+00  Æðsta stjórn ríkisins,00201,Alþingi,1890490872
+00  Æðsta stjórn ríkisins,00205,Framkvæmdir á Alþingisreit,0
+00  Æðsta stjórn ríkisins,00290,Stjórnlagaþing,8643822
+00  Æðsta stjórn ríkisins,00291,Rannsóknarnefndir Alþingis,216691927
+00  Æðsta stjórn ríkisins,00295,Saksóknari Alþingis,17925785
+00  Æðsta stjórn ríkisins,00301,Ríkisstjórn,189561042
+00  Æðsta stjórn ríkisins,00401,Hæstiréttur,185774337
+00  Æðsta stjórn ríkisins,00610,Umboðsmaður Alþingis,101345158
+00  Æðsta stjórn ríkisins,00620,Ríkisendurskoðun,358133021
+01  Forsætisráðuneyti,01101,"Forsætisráðuneyti, aðalskrifstofa",242119224
+01  Forsætisráðuneyti,01190,Ýmis verkefni,34007311
+01  Forsætisráðuneyti,01199,Ráðstöfunarfé,0
+01  Forsætisráðuneyti,01201,Fasteignir forsætisráðuneytis,56156401
+01  Forsætisráðuneyti,01203,Fasteignir Stjórnarráðsins,27238402
+01  Forsætisráðuneyti,01241,Umboðsmaður barna,27609397
+01  Forsætisráðuneyti,01253,Vest-norrænt menningarhús í Kaupmannahöfn,11691579
+01  Forsætisráðuneyti,01261,Óbyggðanefnd,28601522
+01  Forsætisráðuneyti,01271,Ríkislögmaður,52930597
+01  Forsætisráðuneyti,01281,Atvinnuuppbygging og fjölgun vistvænna starfa,1500000
+01  Forsætisráðuneyti,01902,Þjóðgarðurinn á Þingvöllum,107568221
+01  Forsætisráðuneyti,01996,"Íslenska upplýsingasamfélagið, sameiginleg verkefni ráðuneyta",0
+02  Mennta- og menningarmálaráðuneyti,02101,"Mennta- og menningarmálaráðuneyti, aðalskrifstofa",635269898
+02  Mennta- og menningarmálaráðuneyti,02199,Ráðstöfunarfé,0
+02  Mennta- og menningarmálaráðuneyti,02201,Háskóli Íslands,8115641061
+02  Mennta- og menningarmálaráðuneyti,02202,Tilraunastöð Háskólans að Keldum,148843309
+02  Mennta- og menningarmálaráðuneyti,02203,Raunvísindastofnun Háskólans,374747904
+02  Mennta- og menningarmálaráðuneyti,02209,Stofnun Árna Magnússonar í íslenskum fræðum,214754947
+02  Mennta- og menningarmálaráðuneyti,02210,Háskólinn á Akureyri,1060938507
+02  Mennta- og menningarmálaráðuneyti,02216,Landbúnaðarháskóli Íslands,499229947
+02  Mennta- og menningarmálaráðuneyti,02217,Hólaskóli - Háskólinn á Hólum,253876262
+02  Mennta- og menningarmálaráðuneyti,02223,Námsmatsstofnun,83759793
+02  Mennta- og menningarmálaráðuneyti,02225,Háskólinn á Bifröst,241273800
+02  Mennta- og menningarmálaráðuneyti,02227,Háskólinn í Reykjavík,1510572000
+02  Mennta- og menningarmálaráðuneyti,02228,Listaháskóli Íslands,497549960
+02  Mennta- og menningarmálaráðuneyti,02231,Rannsóknamiðstöð Íslands,224429969
+02  Mennta- og menningarmálaráðuneyti,02235,Markáætlun á sviði vísinda og tækni,53950041
+02  Mennta- og menningarmálaráðuneyti,02236,Rannsóknasjóður,595554016
+02  Mennta- og menningarmálaráðuneyti,02238,Tækjasjóður,71505106
+02  Mennta- og menningarmálaráðuneyti,02239,Rannsóknarnámssjóður,65126298
+02  Mennta- og menningarmálaráðuneyti,02269,"Háskóla- og vísindastofnanir, viðhald og stofnkostnaður",-53337432
+02  Mennta- og menningarmálaráðuneyti,02299,Háskóla- og rannsóknastarfsemi,337275794
+02  Mennta- og menningarmálaráðuneyti,02301,Menntaskólinn í Reykjavík,394602038
+02  Mennta- og menningarmálaráðuneyti,02302,Menntaskólinn á Akureyri,403331927
+02  Mennta- og menningarmálaráðuneyti,02303,Menntaskólinn að Laugarvatni,143377995
+02  Mennta- og menningarmálaráðuneyti,02304,Menntaskólinn við Hamrahlíð,679951887
+02  Mennta- og menningarmálaráðuneyti,02305,Menntaskólinn við Sund,352585520
+02  Mennta- og menningarmálaráðuneyti,02306,Menntaskólinn á Ísafirði,201712600
+02  Mennta- og menningarmálaráðuneyti,02307,Menntaskólinn á Egilsstöðum,225038540
+02  Mennta- og menningarmálaráðuneyti,02308,Menntaskólinn í Kópavogi,646056232
+02  Mennta- og menningarmálaráðuneyti,02309,Kvennaskólinn í Reykjavík,336965450
+02  Mennta- og menningarmálaráðuneyti,02316,Fasteignir framhaldsskóla,50487246
+02  Mennta- og menningarmálaráðuneyti,02318,"Framhaldsskólar, stofnkostnaður",55318144
+02  Mennta- og menningarmálaráðuneyti,02319,"Framhaldsskólar, almennt",564115128
+02  Mennta- og menningarmálaráðuneyti,02320,Nám á framhaldsstigi vegna aðstæðna á vinnumarkaði,29920000
+02  Mennta- og menningarmálaráðuneyti,02350,Fjölbrautaskólinn í Breiðholti,769842115
+02  Mennta- og menningarmálaráðuneyti,02351,Fjölbrautaskólinn Ármúla,654665730
+02  Mennta- og menningarmálaráðuneyti,02352,Flensborgarskóli,449456096
+02  Mennta- og menningarmálaráðuneyti,02353,Fjölbrautaskóli Suðurnesja,565329423
+02  Mennta- og menningarmálaráðuneyti,02354,Fjölbrautaskóli Vesturlands,336127368
+02  Mennta- og menningarmálaráðuneyti,02355,Framhaldsskólinn í Vestmannaeyjum,166099392
+02  Mennta- og menningarmálaráðuneyti,02356,Fjölbrautaskóli Norðurlands vestra,285575653
+02  Mennta- og menningarmálaráðuneyti,02357,Fjölbrautaskóli Suðurlands,608847015
+02  Mennta- og menningarmálaráðuneyti,02358,Verkmenntaskóli Austurlands,186953750
+02  Mennta- og menningarmálaráðuneyti,02359,Verkmenntaskólinn á Akureyri,847983873
+02  Mennta- og menningarmálaráðuneyti,02360,Fjölbrautaskólinn í Garðabæ,396063922
+02  Mennta- og menningarmálaráðuneyti,02361,Framhaldsskólinn í A-Skaftafellssýslu,113524030
+02  Mennta- og menningarmálaráðuneyti,02362,Framhaldsskólinn á Húsavík,92844928
+02  Mennta- og menningarmálaráðuneyti,02363,Framhaldsskólinn á Laugum,146395616
+02  Mennta- og menningarmálaráðuneyti,02365,Borgarholtsskóli,701876282
+02  Mennta- og menningarmálaráðuneyti,02367,Fjölbrautaskóli Snæfellinga,161180347
+02  Mennta- og menningarmálaráðuneyti,02368,Menntaskóli Borgarfjarðar,127984238
+02  Mennta- og menningarmálaráðuneyti,02369,Menntaskólinn Hraðbraut,82958517
+02  Mennta- og menningarmálaráðuneyti,02370,Framhaldsskólinn í Mosfellsbæ,130135933
+02  Mennta- og menningarmálaráðuneyti,02372,Menntaskólinn á Tröllaskaga,83247980
+02  Mennta- og menningarmálaráðuneyti,02430,Samskiptamiðstöð heyrnarlausra og heyrnarskertra,71027320
+02  Mennta- og menningarmálaráðuneyti,02441,Fullorðinsfræðsla fatlaðra,167829258
+02  Mennta- og menningarmálaráðuneyti,02451,Framhaldsfræðsla,968470289
+02  Mennta- og menningarmálaráðuneyti,02504,Tækniskólinn,1434593000
+02  Mennta- og menningarmálaráðuneyti,02516,Iðnskólinn í Hafnarfirði,417151129
+02  Mennta- og menningarmálaráðuneyti,02518,Þróunarsjóður fyrir starfsnám,26330884
+02  Mennta- og menningarmálaráðuneyti,02519,Vinnustaðanámssjóður,87106106
+02  Mennta- og menningarmálaráðuneyti,02541,Hússtjórnarskólinn í Reykjavík,22280191
+02  Mennta- og menningarmálaráðuneyti,02551,Hússtjórnarskólinn Hallormsstað,19585391
+02  Mennta- og menningarmálaráðuneyti,02565,Tónlistarnám á vegum sveitarfélaga,360000000
+02  Mennta- og menningarmálaráðuneyti,02571,Sjómannaskólahúsið,0
+02  Mennta- og menningarmálaráðuneyti,02581,Verslunarskóli Íslands,696974801
+02  Mennta- og menningarmálaráðuneyti,02720,"Grunnskólar, almennt",94190710
+02  Mennta- og menningarmálaráðuneyti,02725,Námsgagnastofnun,317394909
+02  Mennta- og menningarmálaráðuneyti,02872,Lánasjóður íslenskra námsmanna,7954904068
+02  Mennta- og menningarmálaráðuneyti,02884,Jöfnun á námskostnaði,591459400
+02  Mennta- og menningarmálaráðuneyti,02901,Fornleifavernd ríkisins,62829002
+02  Mennta- og menningarmálaráðuneyti,02902,Þjóðminjasafn Íslands,281078355
+02  Mennta- og menningarmálaráðuneyti,02903,Þjóðskjalasafn Íslands,209857871
+02  Mennta- og menningarmálaráðuneyti,02904,Þjóðmenningarhúsið,66973099
+02  Mennta- og menningarmálaráðuneyti,02905,Landsbókasafn Íslands - Háskólabókasafn,644879599
+02  Mennta- og menningarmálaráðuneyti,02906,Listasafn Einars Jónssonar,13660456
+02  Mennta- og menningarmálaráðuneyti,02907,Listasafn Íslands,126222454
+02  Mennta- og menningarmálaráðuneyti,02908,Kvikmyndasafn Íslands,36752580
+02  Mennta- og menningarmálaráðuneyti,02909,Blindrabókasafn Íslands,70202359
+02  Mennta- og menningarmálaráðuneyti,02911,Náttúruminjasafn Íslands,14841303
+02  Mennta- og menningarmálaráðuneyti,02913,Gljúfrasteinn - Hús skáldsins,25441646
+02  Mennta- og menningarmálaráðuneyti,02918,Safnasjóður,85782336
+02  Mennta- og menningarmálaráðuneyti,02919,Söfn og menningarminjar,59106256
+02  Mennta- og menningarmálaráðuneyti,02961,Fjölmiðlanefnd,27285499
+02  Mennta- og menningarmálaráðuneyti,02965,"Harpa, tónlistar- og ráðstefnuhús í Reykjavík",411270112
+02  Mennta- og menningarmálaráðuneyti,02969,"Menningarstofnanir, viðhald og stofnkostnaður",57461663
+02  Mennta- og menningarmálaráðuneyti,02971,Ríkisútvarpið,2324999998
+02  Mennta- og menningarmálaráðuneyti,02972,Íslenski dansflokkurinn,88320785
+02  Mennta- og menningarmálaráðuneyti,02973,Þjóðleikhúsið,501104810
+02  Mennta- og menningarmálaráðuneyti,02974,Sinfóníuhljómsveit Íslands,679522795
+02  Mennta- og menningarmálaráðuneyti,02977,Höfundarréttargjöld,27744475
+02  Mennta- og menningarmálaráðuneyti,02978,Launasjóðir listamanna,363110422
+02  Mennta- og menningarmálaráðuneyti,02979,Húsafriðunarnefnd,32749398
+02  Mennta- og menningarmálaráðuneyti,02980,Listskreytingasjóður,4264371
+02  Mennta- og menningarmálaráðuneyti,02981,Kvikmyndamiðstöð Íslands,326349837
+02  Mennta- og menningarmálaráðuneyti,02982,Listir,773932759
+02  Mennta- og menningarmálaráðuneyti,02983,Ýmis fræðistörf,72647039
+02  Mennta- og menningarmálaráðuneyti,02984,Norræn samvinna,10878372
+02  Mennta- og menningarmálaráðuneyti,02985,"Rammaáætlanir ESB um menntun, rannsóknir og tækniþróun",1110689342
+02  Mennta- og menningarmálaráðuneyti,02988,Æskulýðsmál,162810168
+02  Mennta- og menningarmálaráðuneyti,02989,Ýmis íþróttamál,247783838
+02  Mennta- og menningarmálaráðuneyti,02999,Ýmislegt,175526076
+03  Utanríkisráðuneyti,03101,"Utanríkisráðuneyti, aðalskrifstofa",964903897
+03  Utanríkisráðuneyti,03111,Þýðingamiðstöð utanríkisráðuneytis,360350446
+03  Utanríkisráðuneyti,03190,Ýmis verkefni,91264983
+03  Utanríkisráðuneyti,03199,Ráðstöfunarfé,0
+03  Utanríkisráðuneyti,03213,Varnarmál,0
+03  Utanríkisráðuneyti,03300,Sendiráð Íslands,2067644080
+03  Utanríkisráðuneyti,03390,Þróunarsamvinnustofnun Íslands,709039817
+03  Utanríkisráðuneyti,03391,Þróunarmál og alþjóðleg hjálparstarfsemi,962281589
+03  Utanríkisráðuneyti,03401,Alþjóðastofnanir,1463901521
+03  Utanríkisráðuneyti,03611,Íslandsstofa,321959394
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04101,"Sjávarútvegs- og landbúnaðarráðuneyti, aðalskrifstofa",350190400
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04190,Ýmis verkefni,238485502
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04199,Ráðstöfunarfé,0
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04215,Fiskistofa,587903816
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04217,Verðlagsstofa skiptaverðs,11751553
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04234,Matvælastofnun,819988533
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04331,Héraðs- og Austurlandsskógar,83028588
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04332,Suðurlandsskógar,29544407
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04334,Vesturlandsskógar,22917192
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04335,Skjólskógar á Vestfjörðum,20408009
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04336,Norðurlandsskógar,72691265
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04401,Hafrannsóknastofnunin,943674157
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04405,Veiðimálastofnun,83214800
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04411,Matvælarannsóknir,270800000
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04413,Verkefnasjóður sjávarútvegsins,286931712
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04414,Sjávarspendýrasjóður,0
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04415,Sjóður til síldarrannsókna,0
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04416,Veiðarfærarannsóknir,0
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04417,Rannsóknasjóður til að auka verðmæti sjávarfangs,262435728
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04421,Bygging rannsóknastofnana sjávarútvegsins,59616570
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04423,Skrifstofa rannsóknastofnana atvinnuveganna,45204366
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04426,Húsbyggingarsjóður,0
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04481,Rannsóknir háskóla í þágu landbúnaðar,117100000
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04483,Landgræðsla og skógrækt í þágu landbúnaðar,20000000
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04488,Hagskýrslur og hagrannsóknir um landbúnað,19843878
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04801,Greiðslur vegna mjólkurframleiðslu,3897725891
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04805,Greiðslur vegna sauðfjárframleiðslu,3594975006
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04807,Greiðslur vegna grænmetisframleiðslu,298667081
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04811,Bændasamtök Íslands,311850000
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04818,Búnaðarsjóður,80024590
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04821,Framleiðnisjóður landbúnaðarins,116923924
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04824,Verðmiðlun landbúnaðarvara,303750000
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04827,Fóðursjóður,1588703585
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04831,Jarðasjóður og Jarðeignir ríkisins,55942690
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04843,Fiskræktarsjóður,8067089
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04851,Greiðslur vegna riðuveiki,9293530
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04853,Bjargráðasjóður,6680000
+04  Sjávarútvegs- og landbúnaðarráðuneyti,04891,Sérstakar greiðslur í landbúnaði,0
+06  Innanríkisráðuneyti,06101,"Innanríkisráðuneyti, aðalskrifstofa",527565576
+06  Innanríkisráðuneyti,06102,Stjórnartíðindi,19432183
+06  Innanríkisráðuneyti,06103,Lagasafn,-1081500
+06  Innanríkisráðuneyti,06111,Kosningar,263702566
+06  Innanríkisráðuneyti,06190,Ýmis verkefni,129303545
+06  Innanríkisráðuneyti,06201,Hæstiréttur,101710108
+06  Innanríkisráðuneyti,06210,Héraðsdómstólar,976087602
+06  Innanríkisráðuneyti,06231,Málskostnaður í opinberum málum,405139398
+06  Innanríkisráðuneyti,06232,Opinber réttaraðstoð,209939062
+06  Innanríkisráðuneyti,06235,Bætur brotaþola,42481152
+06  Innanríkisráðuneyti,06236,Sanngirnisbætur vegna misgjörða á vistheimilum fyrir börn,391366619
+06  Innanríkisráðuneyti,06251,Persónuvernd,54321180
+06  Innanríkisráðuneyti,06295,Landsdómur,72025931
+06  Innanríkisráðuneyti,06301,Ríkissaksóknari,116686695
+06  Innanríkisráðuneyti,06303,Ríkislögreglustjóri,913248710
+06  Innanríkisráðuneyti,06305,Lögregluskóli ríkisins,155184299
+06  Innanríkisráðuneyti,06309,Sérstakur saksóknari samkvæmt lögum nr. 135/2008,920897449
+06  Innanríkisráðuneyti,06310,Lögreglustjórinn á höfuðborgarsvæðinu,2631437098
+06  Innanríkisráðuneyti,06312,Lögreglustjórinn á Suðurnesjum,736323875
+06  Innanríkisráðuneyti,06325,Samræmd neyðarsvörun,234259590
+06  Innanríkisráðuneyti,06390,Ýmis löggæslu- og öryggismál,239563595
+06  Innanríkisráðuneyti,06395,Landhelgisgæsla Íslands,3212829508
+06  Innanríkisráðuneyti,06396,Landhelgissjóður Íslands,3482811
+06  Innanríkisráðuneyti,06397,Schengen-samstarf,109647848
+06  Innanríkisráðuneyti,06398,Útlendingastofnun,122008436
+06  Innanríkisráðuneyti,06399,Hælisleitendur,130363297
+06  Innanríkisráðuneyti,06411,Sýslumaðurinn í Reykjavík,239822536
+06  Innanríkisráðuneyti,06412,Sýslumaðurinn á Akranesi,140250797
+06  Innanríkisráðuneyti,06413,Sýslumaðurinn í Borgarnesi,136695999
+06  Innanríkisráðuneyti,06414,Sýslumaður Snæfellinga,131763243
+06  Innanríkisráðuneyti,06415,Sýslumaðurinn í Búðardal,16410571
+06  Innanríkisráðuneyti,06416,Sýslumaðurinn á Patreksfirði,24968784
+06  Innanríkisráðuneyti,06417,Sýslumaðurinn í Bolungarvík,23603277
+06  Innanríkisráðuneyti,06418,Sýslumaðurinn á Ísafirði,247690370
+06  Innanríkisráðuneyti,06419,Sýslumaðurinn á Hólmavík,17138860
+06  Innanríkisráðuneyti,06420,Sýslumaðurinn á Blönduósi,159801243
+06  Innanríkisráðuneyti,06421,Sýslumaðurinn á Sauðárkróki,117237305
+06  Innanríkisráðuneyti,06422,Sýslumaðurinn á Siglufirði,33338717
+06  Innanríkisráðuneyti,06424,Sýslumaðurinn á Akureyri,414346509
+06  Innanríkisráðuneyti,06425,Sýslumaðurinn á Húsavík,141846689
+06  Innanríkisráðuneyti,06426,Sýslumaðurinn á Seyðisfirði,144700435
+06  Innanríkisráðuneyti,06428,Sýslumaðurinn á Eskifirði,190139511
+06  Innanríkisráðuneyti,06429,Sýslumaðurinn á Höfn í Hornafirði,25024014
+06  Innanríkisráðuneyti,06430,Sýslumaðurinn í Vík í Mýrdal,28863180
+06  Innanríkisráðuneyti,06431,Sýslumaðurinn á Hvolsvelli,137281416
+06  Innanríkisráðuneyti,06432,Sýslumaðurinn í Vestmannaeyjum,134864431
+06  Innanríkisráðuneyti,06433,Sýslumaðurinn á Selfossi,311898243
+06  Innanríkisráðuneyti,06434,Sýslumaðurinn í Reykjanesbæ,111804687
+06  Innanríkisráðuneyti,06436,Sýslumaðurinn í Hafnarfirði,133803003
+06  Innanríkisráðuneyti,06437,Sýslumaðurinn í Kópavogi,156223232
+06  Innanríkisráðuneyti,06490,Ýmis rekstrarkostnaður sýslumannsembætta,79350453
+06  Innanríkisráðuneyti,06501,Fangelsismálastofnun ríkisins,978695272
+06  Innanríkisráðuneyti,06591,Fangelsisbyggingar,46569887
+06  Innanríkisráðuneyti,06651,Vegagerðin,11837163861
+06  Innanríkisráðuneyti,06657,Umferðarstofa,137861499
+06  Innanríkisráðuneyti,06658,Rannsóknanefnd umferðarslysa,27803419
+06  Innanríkisráðuneyti,06661,Siglingastofnun Íslands,591405180
+06  Innanríkisráðuneyti,06662,Hafnarframkvæmdir,475021204
+06  Innanríkisráðuneyti,06668,Rannsóknanefnd sjóslysa,26791204
+06  Innanríkisráðuneyti,06671,Flugmálastjórn Íslands,387685731
+06  Innanríkisráðuneyti,06672,Flugvellir og flugleiðsöguþjónusta,1350576000
+06  Innanríkisráðuneyti,06678,Rannsóknanefnd flugslysa,34973330
+06  Innanríkisráðuneyti,06681,Póst- og fjarskiptastofnunin,261744248
+06  Innanríkisráðuneyti,06682,Jöfnunarsjóður alþjónustu,46318308
+06  Innanríkisráðuneyti,06689,Fjarskiptasjóður,16818956
+06  Innanríkisráðuneyti,06701,Þjóðkirkjan,1155700803
+06  Innanríkisráðuneyti,06705,Kirkjumálasjóður,172077732
+06  Innanríkisráðuneyti,06707,Kristnisjóður,55700000
+06  Innanríkisráðuneyti,06733,Kirkjugarðar,666000000
+06  Innanríkisráðuneyti,06735,Sóknargjöld,1390970466
+06  Innanríkisráðuneyti,06736,Jöfnunarsjóður sókna,222618051
+06  Innanríkisráðuneyti,06801,Neytendastofa,132154329
+06  Innanríkisráðuneyti,06805,Talsmaður neytenda,10811290
+06  Innanríkisráðuneyti,06821,Þjóðskrá Íslands,850280224
+06  Innanríkisráðuneyti,06841,Jöfnunarsjóður sveitarfélaga,11850329800
+06  Innanríkisráðuneyti,06848,Meðlög samkvæmt lögum nr. 76/2003,67867587
+06  Innanríkisráðuneyti,06996,Íslenska upplýsingasamfélagið,5006334
+08  Velferðarráðuneyti,08101,"Velferðarráðuneyti, aðalskrifstofa",692289511
+08  Velferðarráðuneyti,08190,Ýmis verkefni,96809149
+08  Velferðarráðuneyti,08201,Tryggingastofnun ríkisins,702670384
+08  Velferðarráðuneyti,08202,Sjúkratryggingar Íslands,355295783
+08  Velferðarráðuneyti,08203,Bætur samkvæmt lögum um félagslega aðstoð,9008423182
+08  Velferðarráðuneyti,08204,Lífeyristryggingar,43745888558
+08  Velferðarráðuneyti,08206,Sjúkratryggingar,21789395375
+08  Velferðarráðuneyti,08208,Slysatryggingar,486441327
+08  Velferðarráðuneyti,08209,Sjúklingatrygging,61300513
+08  Velferðarráðuneyti,08214,Eftirlaunasjóður aldraðra,34283366
+08  Velferðarráðuneyti,08301,Landlæknir,584436167
+08  Velferðarráðuneyti,08317,Lyfjastofnun,272801652
+08  Velferðarráðuneyti,08327,Geislavarnir ríkisins,58638583
+08  Velferðarráðuneyti,08331,Vinnueftirlit ríkisins,358975925
+08  Velferðarráðuneyti,08332,Ríkissáttasemjari,48104349
+08  Velferðarráðuneyti,08333,Jafnréttisstofa,56162773
+08  Velferðarráðuneyti,08334,Umboðsmaður skuldara,888254606
+08  Velferðarráðuneyti,08358,Sjúkrahúsið á Akureyri,3403983928
+08  Velferðarráðuneyti,08373,Landspítali,27699313177
+08  Velferðarráðuneyti,08379,"Sjúkrahús, óskipt",52599335
+08  Velferðarráðuneyti,08383,Sjúkrahótel,71787118
+08  Velferðarráðuneyti,08388,Samtök áhugamanna um áfengisvandamálið,491526000
+08  Velferðarráðuneyti,08398,"Félagsmál, ýmis starfsemi",363252649
+08  Velferðarráðuneyti,08399,"Heilbrigðismál, ýmis starfsemi",785027425
+08  Velferðarráðuneyti,08401,"Öldrunarstofnanir, almennt",-384408797
+08  Velferðarráðuneyti,08402,Framkvæmdasjóður aldraðra,1205434117
+08  Velferðarráðuneyti,08405,"Hrafnista, Reykjavík",1223182041
+08  Velferðarráðuneyti,08406,"Hrafnista, Hafnarfirði",1187583528
+08  Velferðarráðuneyti,08407,"Grund, Reykjavik",1122837192
+08  Velferðarráðuneyti,08408,"Sunnuhlíð, Kópavogi",452597743
+08  Velferðarráðuneyti,08409,Hjúkrunarheimilið Skjól,631386910
+08  Velferðarráðuneyti,08410,Hjúkrunarheimilið Eir,1099158892
+08  Velferðarráðuneyti,08411,"Garðvangur, Garði",230309498
+08  Velferðarráðuneyti,08412,Hjúkrunarheimilið Skógarbær,487132831
+08  Velferðarráðuneyti,08413,Hjúkrunarheimilið Droplaugarstöðum,489493158
+08  Velferðarráðuneyti,08414,"Hjúkrunarheimilið Lundur, Hellu",179534440
+08  Velferðarráðuneyti,08415,"Hjúkrunarheimilið Hulduhlíð, Eskifirði",103089169
+08  Velferðarráðuneyti,08416,"Hjúkrunarheimilið Hornbrekka, Ólafsfirði",138904370
+08  Velferðarráðuneyti,08417,"Hjúkrunarheimilið Naust, Þórshöfn",52367203
+08  Velferðarráðuneyti,08418,"Seljahlíð, Reykjavík",128821679
+08  Velferðarráðuneyti,08419,"Sólvangur, Hafnarfirði",433683520
+08  Velferðarráðuneyti,08423,"Höfði, Akranesi",374887358
+08  Velferðarráðuneyti,08424,Dvalarheimili aldraðra Borgarnesi,240916632
+08  Velferðarráðuneyti,08425,Dvalarheimili aldraðra Stykkishólmi,82497688
+08  Velferðarráðuneyti,08426,"Fellaskjól, Grundarfirði",62336703
+08  Velferðarráðuneyti,08427,"Jaðar, Ólafsvík",66255944
+08  Velferðarráðuneyti,08428,"Fellsendi, Búðardal",143314750
+08  Velferðarráðuneyti,08429,"Barmahlíð, Reykhólum",83612644
+08  Velferðarráðuneyti,08433,"Dalbær, Dalvík",198542097
+08  Velferðarráðuneyti,08434,Samningur við Akureyrarbæ um öldrunarþjónustu,982264274
+08  Velferðarráðuneyti,08436,"Uppsalir, Fáskrúðsfirði",106953750
+08  Velferðarráðuneyti,08437,Samningur við Sveitarfélagið Hornafjörð um öldrunarþjónustu,151613855
+08  Velferðarráðuneyti,08438,"Klausturhólar, Kirkjubæjarklaustri",78488512
+08  Velferðarráðuneyti,08439,"Hjallatún, Vík",84543940
+08  Velferðarráðuneyti,08440,"Kumbaravogur, Stokkseyri",194630525
+08  Velferðarráðuneyti,08441,"Ás/Ásbyrgi, Hveragerði",545566827
+08  Velferðarráðuneyti,08442,"Hraunbúðir, Vestmannaeyjum",185848678
+08  Velferðarráðuneyti,08443,"Holtsbúð, Garðabæ",253688374
+08  Velferðarráðuneyti,08445,"Mörk, Reykjavík",640571460
+08  Velferðarráðuneyti,08446,"Hrafnista, Kópavogi",241997738
+08  Velferðarráðuneyti,08447,"Sóltún, Reykjavík",853945520
+08  Velferðarráðuneyti,08460,"Dvalarrými aldraðra, önnur",304475789
+08  Velferðarráðuneyti,08470,"Vesturhlíð, Reykjavík",6756292
+08  Velferðarráðuneyti,08472,"Hlíðabær, Reykjavik",41053471
+08  Velferðarráðuneyti,08473,"Lindargata, Reykjavík",35824187
+08  Velferðarráðuneyti,08474,Dagvist og endurhæfingarstöð MS-sjúklinga,70049780
+08  Velferðarráðuneyti,08475,"Múlabær, Reykjavík",60680300
+08  Velferðarráðuneyti,08476,"Fríðuhús, Reykjavík",33904860
+08  Velferðarráðuneyti,08477,"Dagvistun aldraðra, aðrar",427579008
+08  Velferðarráðuneyti,08479,Hlaðgerðarkot,66781800
+08  Velferðarráðuneyti,08491,"Reykjalundur, Mosfellsbæ",1028468000
+08  Velferðarráðuneyti,08492,Heilsustofnun Náttúrulækningafélags Íslands,394714800
+08  Velferðarráðuneyti,08493,"Sjálfsbjörg, hjúkrunar- og endurhæfingarstofnun",362295000
+08  Velferðarráðuneyti,08494,Hlein,89266500
+08  Velferðarráðuneyti,08500,"Heilsugæslustöðvar, almennt",32575859
+08  Velferðarráðuneyti,08501,Sjúkraflutningar,716983947
+08  Velferðarráðuneyti,08506,Heilsugæsla á höfuðborgarsvæðinu,3317459909
+08  Velferðarráðuneyti,08508,Miðstöð heimahjúkrunar á höfuðborgarsvæðinu,798750000
+08  Velferðarráðuneyti,08515,Heilsugæslustöðin Lágmúla í Reykjavík,135879300
+08  Velferðarráðuneyti,08517,Læknavaktin,246171600
+08  Velferðarráðuneyti,08552,Heilsugæslustöðin Dalvík,83307566
+08  Velferðarráðuneyti,08553,Samningur við Akureyrarbæ um heilsugæslu,392025600
+08  Velferðarráðuneyti,08588,Heilsugæslustöðin í Salahverfi í Kópavogi,230358931
+08  Velferðarráðuneyti,08700,Heilbrigðisstofnanir,7222293
+08  Velferðarráðuneyti,08716,Heilbrigðisstofnun Vesturlands,2071058880
+08  Velferðarráðuneyti,08721,Heilbrigðisstofnunin Patreksfirði,210440954
+08  Velferðarráðuneyti,08726,Heilbrigðisstofnun Vestfjarða,810120292
+08  Velferðarráðuneyti,08745,Heilbrigðisstofnunin Blönduósi,304881426
+08  Velferðarráðuneyti,08751,Heilbrigðisstofnunin Sauðárkróki,623995792
+08  Velferðarráðuneyti,08756,Heilbrigðisstofnunin Fjallabyggð,327453200
+08  Velferðarráðuneyti,08761,Heilbrigðisstofnun Þingeyinga,681198540
+08  Velferðarráðuneyti,08777,Heilbrigðisstofnun Austurlands,1625530899
+08  Velferðarráðuneyti,08779,Heilbrigðisstofnun Suð-Austurlands,149276200
+08  Velferðarráðuneyti,08781,Heilbrigðisstofnunin Vestmannaeyjum,533186921
+08  Velferðarráðuneyti,08787,Heilbrigðisstofnun Suðurlands,1633963091
+08  Velferðarráðuneyti,08791,Heilbrigðisstofnun Suðurnesja,1365523199
+08  Velferðarráðuneyti,08801,Greiningar- og ráðgjafarstöð ríkisins,299910799
+08  Velferðarráðuneyti,08805,Þjónustu- og þekkingarmiðstöð fyrir blinda og sjónskerta,220669822
+08  Velferðarráðuneyti,08807,Heyrnar- og talmeinastöð Íslands,148240031
+08  Velferðarráðuneyti,08809,Málefni fatlaðra,258439066
+08  Velferðarráðuneyti,08821,Barnaverndarstofa,767774584
+08  Velferðarráðuneyti,08841,Vinnumálastofnun,172665742
+08  Velferðarráðuneyti,08842,Vinnumál,130835410
+08  Velferðarráðuneyti,08851,Atvinnuleysistryggingasjóður,16665377969
+08  Velferðarráðuneyti,08852,Tryggingasjóður sjálfstætt starfandi einstaklinga,21297445
+08  Velferðarráðuneyti,08853,Ábyrgðasjóður launa,874300671
+08  Velferðarráðuneyti,08854,Fæðingarorlof,5889232481
+08  Velferðarráðuneyti,08855,Foreldrar langveikra eða alvarlega fatlaðra barna,74111824
+08  Velferðarráðuneyti,08856,Starfsendurhæfing,310193002
+08  Velferðarráðuneyti,08861,Leiguíbúðir,0
+09  Fjármálaráðuneyti,09101,"Fjármálaráðuneyti, aðalskrifstofa",532091822
+09  Fjármálaráðuneyti,09103,Fjársýsla ríkisins,1080263975
+09  Fjármálaráðuneyti,09199,Ráðstöfunarfé,0
+09  Fjármálaráðuneyti,09210,Ríkisskattstjóri,1795879476
+09  Fjármálaráðuneyti,09212,"Skatta- og tollamál, ýmis útgjöld",8394083
+09  Fjármálaráðuneyti,09214,Yfirskattanefnd,96627433
+09  Fjármálaráðuneyti,09215,Skattrannsóknarstjóri ríkisins,219423238
+09  Fjármálaráðuneyti,09250,Innheimtukostnaður,364872399
+09  Fjármálaráðuneyti,09262,Tollstjórinn,1632741384
+09  Fjármálaráðuneyti,09381,"Lífeyrisskuldbindingar, eftirlaun",7044903004
+09  Fjármálaráðuneyti,09721,Fjármagnstekjuskattur,1866118081
+09  Fjármálaráðuneyti,09811,Barnabætur,5693643898
+09  Fjármálaráðuneyti,09821,Vaxtabætur,14772881669
+09  Fjármálaráðuneyti,09901,Framkvæmdasýsla ríkisins,-15660170
+09  Fjármálaráðuneyti,09905,Ríkiskaup,5344897
+09  Fjármálaráðuneyti,09971,Ríkisábyrgðir,97395582
+09  Fjármálaráðuneyti,09973,Tapaðar kröfur og tjónabætur,1321462
+09  Fjármálaráðuneyti,09976,Lánaumsýsla ríkissjóðs,77601339
+09  Fjármálaráðuneyti,09977,Bankasýsla ríkisins,65653443
+09  Fjármálaráðuneyti,09980,Rekstrarfélag Stjórnarráðsins,99894598
+09  Fjármálaráðuneyti,09981,Ýmsar fasteignir ríkissjóðs,90006460
+09  Fjármálaráðuneyti,09984,Fasteignir ríkissjóðs,200414468
+09  Fjármálaráðuneyti,09985,Fyrrum varnarsvæði við Keflavíkurflugvöll,500000000
+09  Fjármálaráðuneyti,09991,Aðflutningsgjöld af útflutningi notaðra ökutækja,3811451
+09  Fjármálaráðuneyti,09994,Virðisaukaskattur ríkisstofnana af tölvuvinnslu,119831354
+09  Fjármálaráðuneyti,09999,Ýmislegt,883279494
+11  Iðnaðarráðuneyti,11101,"Iðnaðarráðuneyti, aðalskrifstofa",155706329
+11  Iðnaðarráðuneyti,11199,Ráðstöfunarfé,0
+11  Iðnaðarráðuneyti,11205,Nýsköpunarmiðstöð Íslands,455924921
+11  Iðnaðarráðuneyti,11240,Iðnaðarrannsóknir og stóriðja,4490020
+11  Iðnaðarráðuneyti,11242,Tækniþróunarsjóður,464769000
+11  Iðnaðarráðuneyti,11251,Endurgreiðslur vegna kvikmyndagerðar á Íslandi,395710396
+11  Iðnaðarráðuneyti,11299,"Iðja og iðnaður, framlög",273068186
+11  Iðnaðarráðuneyti,11301,Orkustofnun,299743218
+11  Iðnaðarráðuneyti,11371,Orkusjóður,23400000
+11  Iðnaðarráðuneyti,11373,Niðurgreiðslur á húshitun,893183564
+11  Iðnaðarráðuneyti,11375,Jöfnun kostnaðar við dreifingu raforku,237479583
+11  Iðnaðarráðuneyti,11399,Ýmis orkumál,7966392
+11  Iðnaðarráðuneyti,11401,Byggðaáætlun,228531502
+11  Iðnaðarráðuneyti,11411,Byggðastofnun,231525000
+11  Iðnaðarráðuneyti,11501,Ferðamálastofa,342548206
+11  Iðnaðarráðuneyti,11511,Framkvæmdasjóður ferðamannastaða,34750000
+11  Iðnaðarráðuneyti,11599,Ýmis ferðamál,328820187
+12  Efnahags- og viðskiptaráðuneyti,12101,"Efnahags- og viðskiptaráðuneyti, aðalskrifstofa",214988851
+12  Efnahags- og viðskiptaráðuneyti,12190,Ýmis verkefni,116826449
+12  Efnahags- og viðskiptaráðuneyti,12199,Ráðstöfunarfé,0
+12  Efnahags- og viðskiptaráðuneyti,12402,Fjármálaeftirlitið,1234497122
+12  Efnahags- og viðskiptaráðuneyti,12411,Samkeppniseftirlitið,240239737
+12  Efnahags- og viðskiptaráðuneyti,12431,Einkaleyfastofan,155830747
+12  Efnahags- og viðskiptaráðuneyti,12501,Hagstofa Íslands,675607269
+12  Efnahags- og viðskiptaráðuneyti,12811,Flutningssjóður olíuvara,322501000
+14  Umhverfisráðuneyti,14101,"Umhverfisráðuneyti, aðalskrifstofa",270320206
+14  Umhverfisráðuneyti,14190,Ýmis verkefni,222304366
+14  Umhverfisráðuneyti,14199,Ráðstöfunarfé,0
+14  Umhverfisráðuneyti,14202,Náttúrurannsóknastöðin við Mývatn,18000926
+14  Umhverfisráðuneyti,14211,Umhverfisstofnun,676659691
+14  Umhverfisráðuneyti,14212,Vatnajökulsþjóðgarður,280076978
+14  Umhverfisráðuneyti,14231,Landgræðsla ríkisins,492663825
+14  Umhverfisráðuneyti,14241,Skógrækt ríkisins,177597426
+14  Umhverfisráðuneyti,14243,Hekluskógar,18924002
+14  Umhverfisráðuneyti,14287,Úrvinnslusjóður,497235008
+14  Umhverfisráðuneyti,14289,Endurvinnslan hf.,1122672590
+14  Umhverfisráðuneyti,14301,Skipulagsstofnun,159330304
+14  Umhverfisráðuneyti,14303,Skipulagsmál sveitarfélaga,11902299
+14  Umhverfisráðuneyti,14310,Landmælingar Íslands,193127803
+14  Umhverfisráðuneyti,14320,Mannvirkjastofnun,282488497
+14  Umhverfisráðuneyti,14381,Ofanflóðasjóður,935127027
+14  Umhverfisráðuneyti,14401,Náttúrufræðistofnun Íslands,464891424
+14  Umhverfisráðuneyti,14403,Náttúrustofur,91559000
+14  Umhverfisráðuneyti,14407,Stofnun Vilhjálms Stefánssonar,22214032
+14  Umhverfisráðuneyti,14412,Veðurstofa Íslands,648483215
+19  Fjármagnskostnaður,19801,Vaxtagjöld ríkissjóðs,57080427099
