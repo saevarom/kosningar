@@ -20,30 +20,68 @@ var arc = d3.svg.arc()
     .innerRadius(function(d) { return Math.sqrt(d.y); })
     .outerRadius(function(d) { return Math.sqrt(d.y + d.dy); });
 
+
 d3.json("utgjold.json", function(error, root) {
 
-  console.log(root);
-
-var g = svg.datum(root).selectAll("g")
+  g = svg.data([root]).selectAll("path")
     .data(partition.nodes)
-    .enter().append("g");
-    //.attr("transform", function(d) { return "translate(0," + d.x * 10 + ")"; });
-    
+  .enter().append("g")
+
+  path = g.append("svg:path")
+    .attr("d", arc)
+    //.attr("display", function(d) { return d.depth ? null : "none"; }) // hide inner ring
+    .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
+    .on("click", magnify)
+    .style("opacity", "0.8")
+    .style("stroke", "#fff")
+
+    .each(stash);
+
+
   g.append("text")
+    .attr("display", function(d) { return d.depth ? null : "none"; }) // hide inner ring
     .attr("x", function(d) { return 0;  }) 
     .attr("text-anchor", "middle")
     .attr("y", function(d) { return 0; })
     .text(function(d) { return d.name + ' (' + intBeutify(d.value) + ' kr)'; });
 
-  g.append("path")
-    .attr("display", function(d) { return d.depth ? null : "none"; }) // hide inner ring
-    .attr("d", arc)
-    .style("opacity", "0.8")
-    .style("stroke", "#fff")
-    .style("fill", function(d) { return color((d.children ? d : d.parent).name); })
-    .style("fill-rule", "evenodd")
-    .each(stash);
+  
 });
+
+// Distort the specified node to 80% of its parent.
+function magnify(node) {
+
+  if (node.depth <= 1) {
+
+    if (parent = node.parent) {
+      var parent,
+          x = parent.x,
+          k = .8;
+      parent.children.forEach(function(sibling) {
+        x += reposition(sibling, x, sibling === node
+            ? parent.dx * k / node.value
+            : parent.dx * (1 - k) / (parent.value - node.value));
+      });
+    } else {
+      reposition(node, 0, node.dx / node.value);
+    }
+
+    path.transition()
+        .duration(750)
+        .attrTween("d", arcTween);
+  }
+}
+
+
+// Recursively reposition the node at position x with scale k.
+function reposition(node, x, k) {
+  node.x = x;
+  if (node.children && (n = node.children.length)) {
+    var i = -1, n;
+    while (++i < n) x += reposition(node.children[i], x, k);
+  }
+  return node.dx = node.value * k;
+}
 
 
 // Stash the old values for transition.
