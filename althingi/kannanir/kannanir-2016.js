@@ -19,8 +19,8 @@ var y = d3.scale.linear()
     .range([height, 0]);
 
 var color = d3.scale.ordinal()
-    .domain(["Annað", "Sjálfstæðisflokkur", "Samfylkingin", "Vinstri græn", "Framsóknarflokkur", "Björt framtíð", "Píratar", "Lýðræðisvaktin", "Hreyfingin", "Borgarahreyfingin", "Samstaða",  "Hægri grænir", "Dögun", "Framfaraflokkurinn", "Lýðræðishreyfingin", "Regnboginn", "Landsbyggðarflokkurinn", "Flokkur heimilanna", "Alþýðufylkingin", "Húmanistaflokkurinn"])
-    .range(["#ccc", "#0099cc", "#d30f18", "#F87217", "#65991d", "#92278f", "#000", "#49519A", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc"]);
+    .domain(["Annað", "Viðreisn", "Sjálfstæðisfl.", "Samf.", "Vinstri grænir", "Framsóknarfl.", "Björt framtíð", "Píratar", "Lýðræðisvaktin", "Hreyfingin", "Borgarahreyfingin", "Samstaða",  "Hægri grænir", "Dögun", "Framfaraflokkurinn", "Lýðræðishreyfingin", "Regnboginn", "Landsbyggðarflokkurinn", "Flokkur heimilanna", "Alþýðufylkingin", "Húmanistaflokkurinn"])
+    .range(["#ccc", "#f6a71d", "#0099cc", "#d30f18", "#F87217", "#65991d", "#92278f", "#000", "#49519A", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc"]);
 
 var transitionLength = 1500;
 
@@ -50,7 +50,7 @@ var svg = d3.select("#chart").append("svg")
 
 var nested = null, keys = null, flokkar = null, verticalLine = null, kannanir = null;
 
-d3.csv("mbl2013.csv", function(error, data) {
+d3.csv("mbl.csv", function(error, data) {
   nested = d3.nest()
     .key(function(d) { return d.flokkur; })
     .map(data, d3.map);
@@ -75,6 +75,7 @@ d3.csv("mbl2013.csv", function(error, data) {
   //color.domain(keys);
 
   data.forEach(function(d) {
+    console.log(d)
     d.dagsetning_original = d.dagsetning;
     d.dagsetning = parseDate(d.dagsetning);
     d.prosent = parseFloat(d.prosent) / 100;
