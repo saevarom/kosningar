@@ -19,8 +19,8 @@ var y = d3.scale.linear()
     .range([height, 0]);
 
 var color = d3.scale.ordinal()
-    .domain(["Annað", "Viðreisn", "Sjálfstæðisfl.", "Samf.", "Vinstri grænir", "Framsóknarfl.", "Björt framtíð", "Píratar", "Lýðræðisvaktin", "Hreyfingin", "Borgarahreyfingin", "Samstaða",  "Hægri grænir", "Dögun", "Framfaraflokkurinn", "Lýðræðishreyfingin", "Regnboginn", "Landsbyggðarflokkurinn", "Flokkur heimilanna", "Alþýðufylkingin", "Húmanistaflokkurinn"])
-    .range(["#ccc", "#f6a71d", "#0099cc", "#d30f18", "#F87217", "#65991d", "#92278f", "#000", "#49519A", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc"]);
+    .domain(["Annað", "Fl. fólksins", "Miðfl.", "Viðreisn", "Sjálfstæðisfl.", "Samf.", "Vinstri græn", "Framsóknarfl.", "Björt framtíð", "Píratar", "Lýðræðisvaktin", "Hreyfingin", "Borgarahreyfingin", "Samstaða",  "Hægri grænir", "Dögun", "Framfaraflokkurinn", "Lýðræðishreyfingin", "Regnboginn", "Landsbyggðarflokkurinn", "Flokkur heimilanna", "Alþýðufylkingin", "Húmanistaflokkurinn"])
+    .range(["#ccc", "#cc188a", "#23a1bd",  "#ffcf00", "#0057a0", "#bb1f31", "#4c8e45", "#65991d", "#902a8e", "#222222", "#49519A", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc", "#ccc"]);
 
 var transitionLength = 1500;
 
@@ -50,7 +50,15 @@ var svg = d3.select("#chart").append("svg")
 
 var nested = null, keys = null, flokkar = null, verticalLine = null, kannanir = null;
 
-d3.csv("mbl.csv", function(error, data) {
+var dsv = d3.dsv(";", "text/plain");
+dsv("mbl.csv", function(error, data) {
+    data.forEach(function(d) {
+        d.dagsetning_original = d.dagsetning;
+        d.dagsetning = parseDate(d.dagsetning);
+        d.prosent = parseFloat(d.prosent.replace(",", ".")) / 100;
+        d.flokkur_sanitized = d.flokkur.replace(/[^a-z0-9]/gi, '_').toLowerCase();
+      });
+
   nested = d3.nest()
     .key(function(d) { return d.flokkur; })
     .map(data, d3.map);
@@ -61,7 +69,7 @@ d3.csv("mbl.csv", function(error, data) {
     .entries(data);
 
   kannanir = d3.nest()
-    .key(function(d) {return d.konnun + " " + d.dagsetning})
+    .key(function(d) {return d.konnun + " " + d.dagsetning_original})
     .rollup(function(d){
         var bla = {};
         d.forEach(function(c){
@@ -74,13 +82,6 @@ d3.csv("mbl.csv", function(error, data) {
 
   //color.domain(keys);
 
-  data.forEach(function(d) {
-    console.log(d)
-    d.dagsetning_original = d.dagsetning;
-    d.dagsetning = parseDate(d.dagsetning);
-    d.prosent = parseFloat(d.prosent) / 100;
-    d.flokkur_sanitized = d.flokkur.replace(/[^a-z0-9]/gi, '_').toLowerCase();
-  });
 
   x.domain(d3.extent(data, function(d) { return d.dagsetning; }));
   //x.domain([new Date("2013-01-01"), new Date()]);
@@ -249,8 +250,9 @@ d3.csv("mbl.csv", function(error, data) {
     seats.append("text")
 
     function drawSeats(s) {
-
-        seats.selectAll('.seat').remove()
+        $('.seat').remove()
+        $('.horizontal-line').remove()
+        $('.remark').remove()
 
         seats.select("text")
             .data(s)
@@ -259,17 +261,33 @@ d3.csv("mbl.csv", function(error, data) {
             .attr("text-anchor", "end")
             .text(function(d){ return d.konnun; });
 
-        var seat = seats.selectAll('.seat')
+        theline = seats.append("line")
+            .attr("class", "horizontal-line")
+            .attr("y1", 25*9 +2)
+            .attr("y2", 25*9 +2)
+            .attr("x1", 800-10)
+            .attr("x2", 800 + 4*25-10)
+            
+            
+        thetext = seats.append("text")
+            .attr("class", "remark")
+            .attr("x", 890 )
+            .attr("y", 227 )
+            .text("32")
+            
+
+        var seat = seats.selectAll('circle.seat')
             .data(s);
 
         seat.enter().append("circle")
-//            .attr("class", function(d) { return "seat f_" + d.flokkur_sanitized;})
+            .attr("class", function(d) { return "seat"})
             .attr("cy", function(d, i){ return 40 + 25*Math.floor(i/4)})
             .attr("cx", function(d, i){ return 800 + 25*(i%4)})
             .attr("r", 10)
-            .attr("fill", function(d){ return color(d.key)});
+            .attr("fill", function(d){ return color(d.key)})
 
         seat.exit().remove();
+
     $('svg circle.seat').tipsy({
         gravity: 'w',
         html: true,
@@ -292,11 +310,4 @@ d3.csv("mbl.csv", function(error, data) {
         }
       });
 
-
-  // city.append("text")
-  //     .datum(function(d) { return {name: d.name, value: d.values[d.values.length - 1]}; })
-  //     .attr("transform", function(d) { return "translate(" + x(d.value.date) + "," + y(d.value.temperature) + ")"; })
-  //     .attr("x", 3)
-  //     .attr("dy", ".35em")
-  //     .text(function(d) { return d.name; });
 });
