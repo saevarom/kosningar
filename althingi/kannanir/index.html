@@ -28,6 +28,13 @@
           fill: none;
           stroke: #aaa;
           stroke-width: 1px;
+          z-index: -1;
+        }
+        .horizontal-line {
+          fill: none;
+          stroke: #222;
+          stroke-width: 1px;
+          stroke-dasharray: 5,5;
         }
 
         .line {
@@ -84,8 +91,8 @@
               </li>
               <li class="dropdown active"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Alþingiskosningar <b class="caret"></b></a>
                 <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
-                  <li><a href="/kosningar/althingi/kannanir/">2016 skoðanakannanir</a></li>
-                  <li><a href="/kosningar/althingi/kannanir/">2013 skoðanakannanir</a></li>
+                  <li><a href="/kosningar/althingi/kannanir/">2017 skoðanakannanir</a></li>
+                  <li><a href="/kosningar/althingi/kannanir/2013.html">2013 skoðanakannanir</a></li>
                 </ul>
               </li>
               <li class="dropdown">
@@ -104,13 +111,13 @@
 
     <div class="container">
 
-      <h1>Skoðanakannanir í aðdraganda Alþingiskosninga 2016</h1>
+      <h1>Skoðanakannanir í aðdraganda Alþingiskosninga 2017</h1>
       <p>Prófaðu að fara með músina yfir línurnar og punktana. Það er líka hægt að smella á línurnar/punktana.</p>
 
       <div id="chart"></div>
 
       <ul class="unstyled">
-        <li>Gögn: <a href="http://www.mmr.is">MMR</a>, <a href="http://www.capacent.is">Þjóðarpúls Gallup</a>, <a href="http://www.visir.is">Fréttablaðið/Stöð 2</a></li>
+        <li>Gögn: <a href="http://www.mbl.is/frettir/kosningar/">Morgunblaðið</a>, <a href="http://www.mmr.is">MMR</a>, <a href="http://www.capacent.is">Þjóðarpúls Gallup</a>, <a href="http://www.visir.is">Fréttablaðið/Stöð 2</a></li>
         <li>Til einföldunar er ekki er tekið tillit til jöfnunaratkvæða, þannig er 63 þingsætum úthlutað eins og landið væri eitt kjördæmi.</li>
       </ul>
 
@@ -128,7 +135,7 @@
     <script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
     <script src="../../libs/jquery.tipsy.js"></script>
     <script src="../../libs/dhondt.js"></script>
-    <script src="kannanir-2016.js"></script>
+    <script src="kannanir-2017.js"></script>
     <script src="../../libs/ga.js"></script>
 
 

@@ -1,175 +1,156 @@
-dagsetning,konnun,flokkur,prosent
-2016-07-07,MMR,Sjálfstæðisfl.,25,3
-2016-07-07,MMR,Píratar,24,3
-2016-07-07,MMR,Vinstri grænir,18
-2016-07-07,MMR,Samf.,10,9
-2016-07-07,MMR,Viðreisn,6,7
-2016-07-07,MMR,Framsóknarfl.,6,4
-2016-07-07,MMR,Aðrir,5,5
-2016-07-07,MMR,Björt framtíð,2,9
-2016-07-25,MMR,Píratar,26,8
-2016-07-25,MMR,Sjálfstæðisfl.,24
-2016-07-25,MMR,Vinstri grænir,12,8
-2016-07-25,MMR,Viðreisn,9,4
-2016-07-25,MMR,Samf.,8,4
-2016-07-25,MMR,Framsóknarfl.,8,3
-2016-07-25,MMR,Aðrir,6,4
-2016-07-25,MMR,Björt framtíð,3,9
-2016-07-26,MMR,Píratar,26,8
-2016-07-26,MMR,Sjálfstæðisfl.,24
-2016-07-26,MMR,Vinstri grænir,12,8
-2016-07-26,MMR,Viðreisn,9,4
-2016-07-26,MMR,Samf.,8,4
-2016-07-26,MMR,Framsóknarfl.,8,3
-2016-07-26,MMR,Aðrir,6,4
-2016-07-26,MMR,Björt framtíð,3,9
-2016-07-29,Gallup,Sjálfstæðisfl.,26,2
-2016-07-29,Gallup,Píratar,25,3
-2016-07-29,Gallup,Vinstri grænir,16,8
-2016-07-29,Gallup,Framsóknarfl.,9,9
-2016-07-29,Gallup,Viðreisn,9
-2016-07-29,Gallup,Samf.,8
-2016-07-29,Gallup,Björt framtíð,4,2
-2016-07-29,Gallup,Aðrir,0,6
-2016-08-30,MMR,Sjálfstæðisfl.,24,6
-2016-08-30,MMR,Píratar,22,4
-2016-08-30,MMR,Vinstri grænir,12,4
-2016-08-30,MMR,Framsóknarfl.,10,6
-2016-08-30,MMR,Samf.,9,1
-2016-08-30,MMR,Viðreisn,8,8
-2016-08-30,MMR,Aðrir,7,6
-2016-08-30,MMR,Björt framtíð,4,5
-2016-09-01,Gallup,Sjálfstæðisfl.,26,3
-2016-09-01,Gallup,Píratar,25,8
-2016-09-01,Gallup,Vinstri grænir,16,2
-2016-09-01,Gallup,Viðreisn,10,6
-2016-09-01,Gallup,Framsóknarfl.,9
-2016-09-01,Gallup,Samf.,8,3
-2016-09-01,Gallup,Björt framtíð,2,9
-2016-09-08,Fréttablaðið ,Píratar,29,5
-2016-09-08,Fréttablaðið ,Sjálfstæðisfl.,28,2
-2016-09-08,Fréttablaðið ,Vinstri grænir,12,7
-2016-09-08,Fréttablaðið ,Framsóknarfl.,10,7
-2016-09-08,Fréttablaðið ,Samf.,7,5
-2016-09-08,Fréttablaðið ,Viðreisn,6,7
-2016-09-08,Fréttablaðið ,Aðrir,2
-2016-09-08,Fréttablaðið ,Björt framtíð,2
-2016-09-15,Gallup,Sjálfstæðisfl.,25,5
-2016-09-15,Gallup,Píratar,23,1
-2016-09-15,Gallup,Vinstri grænir,13,5
-2016-09-15,Gallup,Viðreisn,12,2
-2016-09-15,Gallup,Framsóknarfl.,9,4
-2016-09-15,Gallup,Samf.,8,8
-2016-09-15,Gallup,Aðrir,4,6
-2016-09-15,Gallup,Björt framtíð,2,9
-2016-09-22,MMR,Píratar,22,7
-2016-09-22,MMR,Sjálfstæðisfl.,22,7
-2016-09-22,MMR,Vinstri grænir,13,2
-2016-09-22,MMR,Viðreisn,11,5
-2016-09-22,MMR,Framsóknarfl.,11
-2016-09-22,MMR,Samf.,8,1
-2016-09-22,MMR,Aðrir,6,7
-2016-09-22,MMR,Björt framtíð,4,1
-2016-09-27,MMR ,Píratar,21,6
-2016-09-27,MMR ,Sjálfstæðisfl.,20,6
-2016-09-27,MMR ,Viðreisn,12,3
-2016-09-27,MMR ,Framsóknarfl.,12,2
-2016-09-27,MMR ,Vinstri grænir,11,5
-2016-09-27,MMR ,Samf.,9,3
-2016-09-27,MMR ,Aðrir,7,6
-2016-09-27,MMR ,Björt framtíð,4,9
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Sjálfstæðisfl.,34,6
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Píratar,19,9
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Framsóknarfl.,13
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Vinstri grænir,13
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Viðreisn,7,3
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Samf.,5,9
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Björt framtíð,3,6
-2016-09-28,Fréttablaðið / Stöð 2 / Vísir,Aðrir,3,2
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Sjálfstæðisfl.,25,9
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Píratar,19,2
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Vinstri grænir,12,6
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Framsóknarfl.,11,4
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Samf.,8,8
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Björt framtíð,6,9
-2016-10-05,Fréttablaðið/Stöð 2/Vísir,Viðreisn,6,9
-2016-10-07,Félagsvísindastofnun HÍ,Sjálfstæðisfl.,26
-2016-10-07,Félagsvísindastofnun HÍ,Píratar,20
-2016-10-07,Félagsvísindastofnun HÍ,Vinstri grænir,17
-2016-10-07,Félagsvísindastofnun HÍ,Viðreisn,12
-2016-10-07,Félagsvísindastofnun HÍ,Framsóknarfl.,10
-2016-10-07,Félagsvísindastofnun HÍ,Samf.,6
-2016-10-07,Félagsvísindastofnun HÍ,Aðrir,5
-2016-10-07,Félagsvísindastofnun HÍ,Björt framtíð,4
-2016-10-11,Stöð 2,Sjálfstæðisfl.,28,2
-2016-10-11,Stöð 2,Píratar,20,6
-2016-10-11,Stöð 2,Vinstri grænir,13,9
-2016-10-11,Stöð 2,Framsóknarfl.,11
-2016-10-11,Stöð 2,Samf.,7,5
-2016-10-11,Stöð 2,Viðreisn,7,3
-2016-10-11,Stöð 2,Aðrir,6,2
-2016-10-11,Stöð 2,Björt framtíð,5,3
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Píratar,22,8
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Sjálfstæðisfl.,22,7
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Vinstri grænir,15,1
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Framsóknarfl.,8,5
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Viðreisn,8,4
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Björt framtíð,8,2
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Samf.,7,3
-2016-10-12,Fréttablaðið / Stöð 2 / Vísir,Aðrir,7
-2016-10-13,Gallup,Sjálfstæðisfl.,22,6
-2016-10-13,Gallup,Píratar,18,3
-2016-10-13,Gallup,Vinstri grænir,14,5
-2016-10-13,Gallup,Viðreisn,12,4
-2016-10-13,Gallup,Framsóknarfl.,9,8
-2016-10-13,Gallup,Björt framtíð,7,7
-2016-10-13,Gallup,Aðrir,7,6
-2016-10-13,Gallup,Samf.,7,1
-2016-10-14,Félagsvísindastofnun HÍ,Sjálfstæðisfl.,21,5
-2016-10-14,Félagsvísindastofnun HÍ,Píratar,17,7
-2016-10-14,Félagsvísindastofnun HÍ,Vinstri grænir,17,7
-2016-10-14,Félagsvísindastofnun HÍ,Viðreisn,11,4
-2016-10-14,Félagsvísindastofnun HÍ,Aðrir,8,6
-2016-10-14,Félagsvísindastofnun HÍ,Framsóknarfl.,8,6
-2016-10-14,Félagsvísindastofnun HÍ,Björt framtíð,7,7
-2016-10-14,Félagsvísindastofnun HÍ,Samf.,6,9
-2016-10-14,MMR,Sjálfstæðisfl.,21,4
-2016-10-14,MMR,Píratar,19,6
-2016-10-14,MMR,Vinstri grænir,14,5
-2016-10-14,MMR,Viðreisn,10,2
-2016-10-14,MMR,Framsóknarfl.,9,2
-2016-10-14,MMR,Samf.,9
-2016-10-14,MMR,Björt framtíð,8,2
-2016-10-14,MMR,Aðrir,7,9
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Sjálfstæðisfl.,23,7
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Píratar,20,7
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Vinstri grænir,19,2
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Framsóknarfl.,8,5
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Aðrir,7,4
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Björt framtíð,7,4
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Viðreisn,6,6
-2016-10-19,Fréttablaðið / Stöð 2 / Vísir,Samf.,6,5
-2016-10-21,Félagsvísindastofnun HÍ,Píratar,22,6
-2016-10-21,Félagsvísindastofnun HÍ,Sjálfstæðisfl.,21,1
-2016-10-21,Félagsvísindastofnun HÍ,Vinstri grænir,18,6
-2016-10-21,Félagsvísindastofnun HÍ,Framsóknarfl.,9,1
-2016-10-21,Félagsvísindastofnun HÍ,Viðreisn,8,8
-2016-10-21,Félagsvísindastofnun HÍ,Aðrir,7,3
-2016-10-21,Félagsvísindastofnun HÍ,Samf.,6,5
-2016-10-21,Félagsvísindastofnun HÍ,Björt framtíð,6
-2016-10-26,Fréttablaðið,Sjálfstæðisfl.,25,1
-2016-10-26,Fréttablaðið,Píratar,20,3
-2016-10-26,Fréttablaðið,Vinstri grænir,16,4
-2016-10-26,Fréttablaðið,Framsóknarfl.,11,2
-2016-10-26,Fréttablaðið,Viðreisn,10,8
-2016-10-26,Fréttablaðið,Samf.,6
-2016-10-26,Fréttablaðið,Aðrir,5,1
-2016-10-26,Fréttablaðið,Björt framtíð,5,1
-2016-10-26,MMR,Sjálfstæðisfl.,21,9
-2016-10-26,MMR,Píratar,19,1
-2016-10-26,MMR,Vinstri grænir,16
-2016-10-26,MMR,Framsóknarfl.,10
-2016-10-26,MMR,Viðreisn,9,3
-2016-10-26,MMR,Björt framtíð,8,8
-2016-10-26,MMR,Samf.,7,6
-2016-10-26,MMR,Aðrir,7,3
+dagsetning;konnun;flokkur;prosent
+2017-09-18;Skoðanakönnun Zenter haust 2017;Sjálfstæðisfl.;26,4
+2017-09-18;Skoðanakönnun Zenter haust 2017;Vinstri græn;22,8
+2017-09-18;Skoðanakönnun Zenter haust 2017;Píratar;12,5
+2017-09-18;Skoðanakönnun Zenter haust 2017;Aðrir;10,6
+2017-09-18;Skoðanakönnun Zenter haust 2017;Framsóknarfl.;10,5
+2017-09-18;Skoðanakönnun Zenter haust 2017;Samf.;9
+2017-09-18;Skoðanakönnun Zenter haust 2017;Björt framtíð;5,6
+2017-09-18;Skoðanakönnun Zenter haust 2017;Viðreisn;2,7
+2017-09-19;Fréttablaðið haust 2017;Sjálfstæðisfl.;23
+2017-09-19;Fréttablaðið haust 2017;Vinstri græn;22,8
+2017-09-19;Fréttablaðið haust 2017;Píratar;13,7
+2017-09-19;Fréttablaðið haust 2017;Flokkur fólksins;10,9
+2017-09-19;Fréttablaðið haust 2017;Framsóknarfl.;10,4
+2017-09-19;Fréttablaðið haust 2017;Björt framtíð;7,1
+2017-09-19;Fréttablaðið haust 2017;Viðreisn;5,2
+2017-09-19;Fréttablaðið haust 2017;Samf.;5,1
+2017-09-19;Fréttablaðið haust 2017;Aðrir;1,8
+2017-09-23;Morgunblaðið haust 2017;Vinstri græn;30
+2017-09-23;Morgunblaðið haust 2017;Sjálfstæðisfl.;23
+2017-09-23;Morgunblaðið haust 2017;Framsóknarfl.;11
+2017-09-23;Morgunblaðið haust 2017;Píratar;10
+2017-09-23;Morgunblaðið haust 2017;Flokkur fólksins;9
+2017-09-23;Morgunblaðið haust 2017;Samf.;8
+2017-09-23;Morgunblaðið haust 2017;Viðreisn;6
+2017-09-23;Morgunblaðið haust 2017;Björt framtíð;3
+2017-09-23;Morgunblaðið haust 2017;Aðrir;1
+2017-09-30;Gallup;Vinstri græn;25,4
+2017-09-30;Gallup;Sjálfstæðisfl.;23,1
+2017-09-30;Gallup;Píratar;10,3
+2017-09-30;Gallup;Fl. fólksins;10,1
+2017-09-30;Gallup;Framsóknarfl.;9,9
+2017-09-30;Gallup;Samf.;9,3
+2017-09-30;Gallup;Björt framtíð;4,6
+2017-09-30;Gallup;Viðreisn;3,6
+2017-09-30;Gallup;Miðfl.;2
+2017-09-30;Gallup;Aðrir;1,7
+2017-09-30;Morgunblaðið haust 2017;Vinstri græn;28,8
+2017-09-30;Morgunblaðið haust 2017;Sjálfstæðisfl.;24,3
+2017-09-30;Morgunblaðið haust 2017;Píratar;11,6
+2017-09-30;Morgunblaðið haust 2017;Samf.;7,5
+2017-09-30;Morgunblaðið haust 2017;Framsóknarfl.;7
+2017-09-30;Morgunblaðið haust 2017;Fl. fólksins;6,5
+2017-09-30;Morgunblaðið haust 2017;Viðreisn;4,8
+2017-09-30;Morgunblaðið haust 2017;Miðfl.;4,6
+2017-09-30;Morgunblaðið haust 2017;Björt framtíð;4,3
+2017-09-30;Morgunblaðið haust 2017;Aðrir;0,6
+2017-10-04;Fréttablaðið haust 2017;Vinstri græn;28,6
+2017-10-04;Fréttablaðið haust 2017;Sjálfstæðisfl.;22,3
+2017-10-04;Fréttablaðið haust 2017;Píratar;11,4
+2017-10-04;Fréttablaðið haust 2017;Samf.;10,5
+2017-10-04;Fréttablaðið haust 2017;Miðfl.;8,9
+2017-10-04;Fréttablaðið haust 2017;Fl. fólksins;5,8
+2017-10-04;Fréttablaðið haust 2017;Framsóknarfl.;5,5
+2017-10-04;Fréttablaðið haust 2017;Viðreisn;3
+2017-10-04;Fréttablaðið haust 2017;Björt framtíð;2,6
+2017-10-04;Fréttablaðið haust 2017;Aðrir;1,4
+2017-10-07;Morgunblaðið haust 2017;Vinstri græn;28,2
+2017-10-07;Morgunblaðið haust 2017;Sjálfstæðisfl.;20,7
+2017-10-07;Morgunblaðið haust 2017;Samf.;10,8
+2017-10-07;Morgunblaðið haust 2017;Miðfl.;9,5
+2017-10-07;Morgunblaðið haust 2017;Píratar;9,1
+2017-10-07;Morgunblaðið haust 2017;Fl. fólksins;9
+2017-10-07;Morgunblaðið haust 2017;Framsóknarfl.;5,5
+2017-10-07;Morgunblaðið haust 2017;Viðreisn;3,1
+2017-10-07;Morgunblaðið haust 2017;Björt framtíð;2,7
+2017-10-07;Morgunblaðið haust 2017;Aðrir;0,4
+2017-10-11;Fréttablaðið haust 2017;Vinstri græn;29,9
+2017-10-11;Fréttablaðið haust 2017;Sjálfstæðisfl.;22,2
+2017-10-11;Fréttablaðið haust 2017;Miðfl.;9,2
+2017-10-11;Fréttablaðið haust 2017;Píratar;8,5
+2017-10-11;Fréttablaðið haust 2017;Samf.;8,3
+2017-10-11;Fréttablaðið haust 2017;Framsóknarfl.;7,1
+2017-10-11;Fréttablaðið haust 2017;Fl. fólksins;6,1
+2017-10-11;Fréttablaðið haust 2017;Björt framtíð;3,6
+2017-10-11;Fréttablaðið haust 2017;Viðreisn;3,3
+2017-10-11;Fréttablaðið haust 2017;Aðrir;1,8
+2017-10-11;MMR;Vinstri græn;21,8
+2017-10-11;MMR;Sjálfstæðisfl.;21,1
+2017-10-11;MMR;Samf.;13
+2017-10-11;MMR;Miðfl.;10,7
+2017-10-11;MMR;Píratar;10,5
+2017-10-11;MMR;Fl. fólksins;7,4
+2017-10-11;MMR;Framsóknarfl.;5,9
+2017-10-11;MMR;Björt framtíð;4,2
+2017-10-11;MMR;Viðreisn;3,6
+2017-10-11;MMR;Aðrir;1,8
+2017-10-13;Gallup;Sjálfstæðisfl.;24
+2017-10-13;Gallup;Vinstri græn;23
+2017-10-13;Gallup;Samf.;13
+2017-10-13;Gallup;Miðfl.;9
+2017-10-13;Gallup;Píratar;9
+2017-10-13;Gallup;Framsóknarfl.;7
+2017-10-13;Gallup;Fl. fólksins;6
+2017-10-13;Gallup;Viðreisn;5
+2017-10-13;Gallup;Björt framtíð;3
+2017-10-13;Gallup;Aðrir;1
+2017-10-14;Morgunblaðið haust 2017;Vinstri græn;27,4
+2017-10-14;Morgunblaðið haust 2017;Sjálfstæðisfl.;22,6
+2017-10-14;Morgunblaðið haust 2017;Samf.;15,3
+2017-10-14;Morgunblaðið haust 2017;Píratar;9,2
+2017-10-14;Morgunblaðið haust 2017;Fl. fólksins;6,5
+2017-10-14;Morgunblaðið haust 2017;Miðfl.;6,4
+2017-10-14;Morgunblaðið haust 2017;Framsóknarfl.;5,5
+2017-10-14;Morgunblaðið haust 2017;Viðreisn;3,4
+2017-10-14;Morgunblaðið haust 2017;Björt framtíð;2,6
+2017-10-14;Morgunblaðið haust 2017;Aðrir;1,1
+2017-10-17;Fréttablaðið haust 2017;Vinstri græn;27
+2017-10-17;Fréttablaðið haust 2017;Sjálfstæðisfl.;22,2
+2017-10-17;Fréttablaðið haust 2017;Miðfl.;10,7
+2017-10-17;Fréttablaðið haust 2017;Samf.;10,4
+2017-10-17;Fréttablaðið haust 2017;Píratar;10
+2017-10-17;Fréttablaðið haust 2017;Framsóknarfl.;7,5
+2017-10-17;Fréttablaðið haust 2017;Viðreisn;5,5
+2017-10-17;Fréttablaðið haust 2017;Fl. fólksins;3,7
+2017-10-17;Fréttablaðið haust 2017;Björt framtíð;2,1
+2017-10-17;Fréttablaðið haust 2017;Aðrir;1,4
+2017-10-18;MMR;Sjálfstæðisfl.;19,9
+2017-10-18;MMR;Vinstri græn;19,1
+2017-10-18;MMR;Samf.;15,9
+2017-10-18;MMR;Píratar;11,9
+2017-10-18;MMR;Miðfl.;11
+2017-10-18;MMR;Framsóknarfl.;8
+2017-10-18;MMR;Viðreisn;6,7
+2017-10-18;MMR;Fl. fólksins;5,3
+2017-10-18;MMR;Björt framtíð;1,6
+2017-10-18;MMR;Aðrir;0,8
+2017-10-20;Gallup könnun 13.-19. október;Vinstri græn;23,3
+2017-10-20;Gallup könnun 13.-19. október;Sjálfstæðisfl.;22,6
+2017-10-20;Gallup könnun 13.-19. október;Samf.;13,3
+2017-10-20;Gallup könnun 13.-19. október;Píratar;10,7
+2017-10-20;Gallup könnun 13.-19. október;Miðfl.;9,4
+2017-10-20;Gallup könnun 13.-19. október;Framsóknarfl.;7,4
+2017-10-20;Gallup könnun 13.-19. október;Viðreisn;5,8
+2017-10-20;Gallup könnun 13.-19. október;Fl. fólksins;5,7
+2017-10-20;Gallup könnun 13.-19. október;Björt framtíð;1,2
+2017-10-20;Gallup könnun 13.-19. október;Aðrir;0,5
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Sjálfstæðisfl.;25,1
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Vinstri græn;23,2
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Samf.;15,6
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Miðfl.;9,8
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Píratar;8,2
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Framsóknarfl.;7,1
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Viðreisn;5,7
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Fl. fólksins;3,3
+2017-10-21;Morgunblaðið haust 2017, 21.10.2017;Björt framtíð;1,5
+2017-10-23;MMR;Sjálfstæðisfl.;22,9
+2017-10-23;MMR;Vinstri græn;19,9
+2017-10-23;MMR;Samf.;13,5
+2017-10-23;MMR;Miðfl.;12,3
+2017-10-23;MMR;Píratar;9,3
+2017-10-23;MMR;Framsóknarfl.;8,6
+2017-10-23;MMR;Viðreisn;5,5
+2017-10-23;MMR;Fl. fólksins;4,7
+2017-10-23;MMR;Björt framtíð;1,8
+2017-10-23;MMR;Aðrir;1,3
