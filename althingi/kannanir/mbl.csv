@@ -1,4 +1,4 @@
-dagsetning,konnun,flokkur,prosent
+dagsetning,konnun,flokkur,prosent,prosent2
 2017-09-18,Skoðanakönnun Zenter haust 2017,Sjálfstæðisfl.,26,4
 2017-09-18,Skoðanakönnun Zenter haust 2017,Vinstri græn,22,8
 2017-09-18,Skoðanakönnun Zenter haust 2017,Píratar,12,5
@@ -135,15 +135,15 @@ dagsetning,konnun,flokkur,prosent
 2017-10-20,Gallup könnun 13.-19. október,Fl. fólksins,5,7
 2017-10-20,Gallup könnun 13.-19. október,Björt framtíð,1,2
 2017-10-20,Gallup könnun 13.-19. október,Aðrir,0,5
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Sjálfstæðisfl.,25,1
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Vinstri græn,23,2
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Samf.,15,6
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Miðfl.,9,8
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Píratar,8,2
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Framsóknarfl.,7,1
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Viðreisn,5,7
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Fl. fólksins,3,3
-2017-10-21,Morgunblaðið haust 2017, 21.10.2017,Björt framtíð,1,5
+2017-10-21,Morgunblaðið haust 2017,Sjálfstæðisfl.,25,1
+2017-10-21,Morgunblaðið haust 2017,Vinstri græn,23,2
+2017-10-21,Morgunblaðið haust 2017,Samf.,15,6
+2017-10-21,Morgunblaðið haust 2017,Miðfl.,9,8
+2017-10-21,Morgunblaðið haust 2017,Píratar,8,2
+2017-10-21,Morgunblaðið haust 2017,Framsóknarfl.,7,1
+2017-10-21,Morgunblaðið haust 2017,Viðreisn,5,7
+2017-10-21,Morgunblaðið haust 2017,Fl. fólksins,3,3
+2017-10-21,Morgunblaðið haust 2017,Björt framtíð,1,5
 2017-10-23,MMR,Sjálfstæðisfl.,22,9
 2017-10-23,MMR,Vinstri græn,19,9
 2017-10-23,MMR,Samf.,13,5
