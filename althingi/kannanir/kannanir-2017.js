@@ -53,7 +53,6 @@ var nested = null, keys = null, flokkar = null, verticalLine = null, kannanir = 
 //var dsv = d3.dsv(";", "text/plain");
 d3.csv("mbl.csv", function(error, data) {
     data.forEach(function(d) {
-        console.log(d)
         d.dagsetning_original = d.dagsetning;
         d.dagsetning = parseDate(d.dagsetning);
         if(d.prosent2 !== undefined) {
