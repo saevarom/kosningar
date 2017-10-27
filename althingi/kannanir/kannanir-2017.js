@@ -50,15 +50,16 @@ var svg = d3.select("#chart").append("svg")
 
 var nested = null, keys = null, flokkar = null, verticalLine = null, kannanir = null;
 
-//var dsv = d3.dsv(";", "text/plain");
-d3.csv("mbl.csv", function(error, data) {
+var dsv = d3.dsv(";", "text/plain");
+//d3.csv("mbl.csv", function(error, data) {
+dsv("mbl.csv", function(error, data) {
     data.forEach(function(d) {
         d.dagsetning_original = d.dagsetning;
         d.dagsetning = parseDate(d.dagsetning);
         if(d.prosent2 !== undefined) {
             d.prosent = parseFloat(parseInt(d.prosent) + parseInt(d.prosent2)/10)/100;
         } else {
-            d.prosent = parseFloat(d.prosent) /100
+            d.prosent = parseFloat(d.prosent.replace(",",".")) /100
         }
         d.flokkur_sanitized = d.flokkur.replace(/[^a-z0-9]/gi, '_').toLowerCase();
       });
